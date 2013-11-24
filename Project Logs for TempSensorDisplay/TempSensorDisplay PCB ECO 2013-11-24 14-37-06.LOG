@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=J0-1
+Removed Pin From Net: NetName=NetJ0_2 Pin=J0-2
+Removed Pin From Net: NetName=VCC Pin=J0-3
+Removed Pin From Net: NetName=NetJ0_2 Pin=J2-11
+Removed Pin From Net: NetName=VCC Pin=R1-1
+Removed Pin From Net: NetName=NetJ0_2 Pin=R1-2
+Removed Member From Class: ClassName=TempSensorDisplay Member=J0
+Removed Member From Class: ClassName=TempSensorDisplay Member=R1
+Added Pin To Net: NetName=NetJ0_2 Pin=J2-14
+Change Net Name : Old Net Name=NetJ0_2 New Net Name=PD6
+Added Pin To Net: NetName=PD4 Pin=J2-12
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=J2-13
+Added Net: Name=PD5
+Added Room: Name=TempSensorDisplay

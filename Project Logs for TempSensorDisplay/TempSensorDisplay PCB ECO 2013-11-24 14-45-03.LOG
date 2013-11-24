@@ -1,0 +1,9 @@
+Added Component: Designator=S?(SW-PB)
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=PD3 Pin=J2-11
+Added Pin To Net: NetName=PD3 Pin=S?-1
+Added Pin To Net: NetName=PD3 Pin=S?-1
+Added Net: Name=PD3
+Added Member To Class: ClassName=TempSensorDisplay Member=Component S? SW-PB
+Added Room: Name=TempSensorDisplay

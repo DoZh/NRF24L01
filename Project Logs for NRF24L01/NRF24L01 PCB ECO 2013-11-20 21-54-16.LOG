@@ -1,0 +1,28 @@
+Added Component: Designator=J1(NRF24L01)
+Added Component: Designator=J?(MAGI-M8)
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=PB1 Pin=J1-3
+Added Pin To Net: NetName=PB1 Pin=J?-17
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=J1-4
+Added Pin To Net: NetName=PB2 Pin=J?-18
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=J1-6
+Added Pin To Net: NetName=PB3 Pin=J?-19
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=J1-7
+Added Pin To Net: NetName=PB4 Pin=J?-20
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=J1-5
+Added Pin To Net: NetName=PB5 Pin=J?-21
+Added Net: Name=PB5
+Added Pin To Net: NetName=PD2 Pin=J1-8
+Added Pin To Net: NetName=PD2 Pin=J?-10
+Added Net: Name=PD2
+Added Pin To Net: NetName=VCC Pin=J1-2
+Added Pin To Net: NetName=VCC Pin=J?-3
+Added Net: Name=VCC
+Added Class: Name=NRF24L01
+Added Room: Name=NRF24L01

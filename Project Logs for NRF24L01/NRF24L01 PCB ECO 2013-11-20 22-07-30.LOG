@@ -1,0 +1,11 @@
+Added Component: Designator=J0(CON3)
+Added Component: Designator=R?(0805)
+Added Pin To Net: NetName=GND Pin=J0-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=NetJ0_2 Pin=J0-2
+Added Pin To Net: NetName=NetJ0_2 Pin=J?-11
+Added Pin To Net: NetName=NetJ0_2 Pin=R?-2
+Added Net: Name=NetJ0_2
+Added Member To Class: ClassName=NRF24L01 Member=Component J0 CON3
+Added Member To Class: ClassName=NRF24L01 Member=Component R? RES1
+Added Room: Name=NRF24L01

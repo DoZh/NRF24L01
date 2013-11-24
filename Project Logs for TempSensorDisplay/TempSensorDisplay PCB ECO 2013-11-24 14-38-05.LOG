@@ -1,0 +1,10 @@
+Added Component: Designator=J?(SIP7)
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=VCC Pin=J?-2
+Added Pin To Net: NetName=PB5 Pin=J?-3
+Added Pin To Net: NetName=PB3 Pin=J?-4
+Added Pin To Net: NetName=PD4 Pin=J?-5
+Added Pin To Net: NetName=PD5 Pin=J?-6
+Added Pin To Net: NetName=PD6 Pin=J?-7
+Added Member To Class: ClassName=TempSensorDisplay Member=Component J? OLED12864
+Added Room: Name=TempSensorDisplay
